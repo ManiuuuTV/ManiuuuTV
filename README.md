@@ -1,13 +1,12 @@
 <h1 align="center">Cześć, jestem Maniuuu 👋</h1>
 
 <p align="center">
-  <b>Owner &amp; Tech Admin @ <a href="https://dc.gg/etopiamc.pl">EtopiaMC.PL</a></b><br>
+  <b>Owner &amp; Tech Admin @
   Minecraft Server Developer • Java • Purpur • optymalizacja i backend
 </p>
 
 <p align="center">
   <a href="https://dc.gg/etopiamc.pl"><img src="https://img.shields.io/badge/Discord-EtopiaMC.PL-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <img src="https://img.shields.io/badge/Minecraft-EtopiaMC.PL-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Serwer">
   <img src="https://komarev.com/ghpvc/?username=ManiuuuTV&style=for-the-badge&color=62B47A" alt="Wyświetlenia profilu">
 </p>
 
@@ -35,7 +34,7 @@
 | Dane | MySQL, SQLite, JSON |
 | Serwer | Velocity, konfiguracja i tuning wydajności |
 
-## 🎮 EtopiaMC.PL
+## 🎮
 
 > Polski serwer Minecraft tworzony z myślą o graczach — survival, ekonomia, działki i autorskie dodatki pisane pod nasze potrzeby.
 
@@ -62,9 +61,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManiuuuTV&theme=tokyonight&hide_border=true" alt="Streak">
 </p>
 
-## 📫 Kontakt
+## 📫 Kontakt (DC: Maniuuu)
 
-- 💬 Discord: **[dc.gg/etopiamc.pl](https://dc.gg/etopiamc.pl)** (`maniuuutv`)
-- 🌍 Serwer: **EtopiaMC.PL**
+- 🌍 Serwer: **BRAK**
 
 <p align="center"><i>„Dobry serwer zaczyna się od dobrego kodu.”</i></p>
