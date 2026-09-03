@@ -24,7 +24,7 @@
 ## 🛠️ Technologie
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,gradle,git,github,linux,mysql,redis,docker,idea,discord" alt="Stack">
+  <img src="https://skillicons.dev/icons?i=java,gradle,git,github,mysql,idea,discord" alt="Stack">
 </p>
 
 | Obszar | Czego używam |
