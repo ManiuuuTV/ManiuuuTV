@@ -16,9 +16,9 @@
 ## 🧑‍💻 O mnie
 
 - 👑 Prowadzę sieć serwerów **EtopiaMC.PL** — od kodu i konfiguracji po administrację i społeczność.
-- ☕ Piszę **pluginy w Javie** na silniki **Paper / Purpur** (Bukkit API, Adventure/MiniMessage, Brigadier).
+- ☕ Piszę **pluginy w Javie** na silniki **Purpur** (Bukkit API, Adventure/MiniMessage, Brigadier).
 - ⚡ Skupiam się na **optymalizacji, konfiguracji i backendzie** — stabilny TPS, czyste dane, sensowna architektura.
-- 🧩 Buduję własne systemy zamiast gotowców: ekonomia, sklepy, działki, rankingi, GUI.
+- 🧩 Buduję własne pluginy: ekonomia, sklepy, działki, rankingi, GUI.
 - 🇵🇱 Polska · `he/him`
 
 ## 🛠️ Technologie
@@ -29,9 +29,9 @@
 
 | Obszar | Czego używam |
 | --- | --- |
-| Języki | Java 21/25, SQL, YAML/JSON |
-| Minecraft | Paper / Purpur API, Bukkit, Adventure &amp; MiniMessage, Brigadier, Vault |
-| Build & VCS | Gradle (Kotlin DSL), Maven, Git / GitHub |
+| Języki | Java 21/25, SQL, YAML |
+| Minecraft | Purpur API, Bukkit, Adventure &amp; MiniMessage, Brigadier, Vault |
+| Build & VCS | Gradle (Kotlin DSL), Git / GitHub |
 | Dane | MySQL / MariaDB, SQLite, JSON (GSON), Redis |
 | Serwer | Linux (VPS), Velocity/BungeeCord, konfiguracja i tuning wydajności |
 
@@ -49,8 +49,7 @@
 
 | Projekt | Opis |
 | --- | --- |
-| **ChestShops** | Plugin sklepów na skrzynkach dla Paper/Purpur: tabliczki, admin shopy, Vault + własna ekonomia, GUI i statystyki. |
-| **src-plugin-w-z-etopiamc.pl** | Autorskie pluginy i rozwiązania serwerowe dla EtopiaMC.PL. |
+| **ChestShops** | Plugin sklepów na skrzynkach dla Purpur: tabliczki, admin shopy, Vault + własna ekonomia, GUI i statystyki. |
 
 ## 📊 Statystyki GitHub
 
