@@ -16,7 +16,7 @@
 ## 🧑‍💻 O mnie
 
 - 👑 Prowadzę sieć serwerów **EtopiaMC.PL** — od kodu i konfiguracji po administrację i społeczność.
-- ☕ Piszę **pluginy w Javie** na silniki **Purpur** (Bukkit API, Adventure/MiniMessage, Brigadier).
+- ☕ Piszę **pluginy w Javie** na silnik **Purpur** (Bukkit API, Adventure/MiniMessage, Brigadier).
 - ⚡ Skupiam się na **optymalizacji, konfiguracji i backendzie** — stabilny TPS, czyste dane, sensowna architektura.
 - 🧩 Buduję własne pluginy: ekonomia, sklepy, działki, rankingi, GUI.
 - 🇵🇱 Polska · `he/him`
@@ -29,11 +29,11 @@
 
 | Obszar | Czego używam |
 | --- | --- |
-| Języki | Java 21/25, SQL, YAML |
+| Języki | Java 25, SQL, YAML |
 | Minecraft | Purpur API, Bukkit, Adventure &amp; MiniMessage, Brigadier, Vault |
-| Build & VCS | Gradle (Kotlin DSL), Git / GitHub |
-| Dane | MySQL / MariaDB, SQLite, JSON (GSON), Redis |
-| Serwer | Linux (VPS), Velocity/BungeeCord, konfiguracja i tuning wydajności |
+| Build & VCS | Gradle , Git / GitHub |
+| Dane | MySQL, SQLite, JSON |
+| Serwer | Velocity, konfiguracja i tuning wydajności |
 
 ## 🎮 EtopiaMC.PL
 
