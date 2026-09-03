@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Owner &amp; Tech Admin @ <a href="https://dc.gg/etopiamc.pl">EtopiaMC.PL</a></b><br>
-  Minecraft Server Developer • Java • Paper / Purpur • optymalizacja i backend
+  Minecraft Server Developer • Java • Purpur • optymalizacja i backend
 </p>
 
 <p align="center">
