@@ -36,14 +36,6 @@
 
 ## 🎮
 
-> Polski serwer Minecraft tworzony z myślą o graczach — survival, ekonomia, działki i autorskie dodatki pisane pod nasze potrzeby.
-
-- 🧱 **Survival + działki** — ochrona terenu, współwłaściciele, flagi.
-- 💰 **Ekonomia** — banknoty, wypłaty/wpłaty, sklepy graczy i admin shopy.
-- 🛒 **ChestShops** — sklepy na skrzynkach i tabliczkach, GUI, wyszukiwarka ofert i statystyki sprzedaży.
-- ⚙️ **Wydajność** — Purpur, tuning konfiguracji, asynchroniczne zapisy danych.
-- 🌐 Discord: **[dc.gg/etopiamc.pl](https://dc.gg/etopiamc.pl)**
-
 ## 📌 Projekty
 
 | Projekt | Opis |
