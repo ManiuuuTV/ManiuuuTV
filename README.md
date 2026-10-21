@@ -15,9 +15,9 @@
 ## 🧑‍💻 O mnie
 
 - 👑 Prowadzę sieć serwerów **EtopiaMC.PL** — od kodu i konfiguracji po administrację i społeczność.
-- ☕ Piszę **pluginy w Javie** na silnik **Purpur** (Bukkit API, Adventure/MiniMessage, Brigadier).
+- ☕ Codding: Purpur (Bukkit API, Adventure/MiniMessage, Brigadier).
 - ⚡ Skupiam się na **optymalizacji, konfiguracji i backendzie** — stabilny TPS, czyste dane, sensowna architektura.
-- 🧩 Buduję własne pluginy: ekonomia, sklepy, działki, rankingi, GUI.
+- 🧩 Pisze własne pluginy: MC-Sklep, MC-Rynek, MC-Core, MC-KOD, MC-StrefaAFK 
 - 🇵🇱 Polska · `he/him`
 
 ## 🛠️ Technologie
@@ -30,8 +30,8 @@
 | --- | --- |
 | Języki | Java 25, SQL, YAML |
 | Minecraft | Purpur API, Bukkit, Adventure &amp; MiniMessage, Brigadier, Vault |
-| Build & VCS | Gradle , Git / GitHub |
-| Dane | MySQL, SQLite, JSON |
+| Gradle , Git / GitHub |
+| Dane | MySQL, SQLite, |
 | Serwer | Velocity, konfiguracja i tuning wydajności |
 
 ## 🎮
@@ -40,7 +40,7 @@
 
 | Projekt | Opis |
 | --- | --- |
-| **ChestShops** | Plugin sklepów na skrzynkach dla Purpur: tabliczki, admin shopy, Vault + własna ekonomia, GUI i statystyki. |
+| --- | --- |
 
 ## 📊 Statystyki GitHub
 
