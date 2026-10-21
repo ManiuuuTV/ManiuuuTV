@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://dc.gg/etopiamc.pl"><img src="https://img.shields.io/badge/Discord-EtopiaMC.PL-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <img src="https://komarev.com/ghpvc/?username=ManiuuuTV&style=for-the-badge&color=62B47A"">
+  <img src="https://komarev.com/ghpvc/?username=ManiuuuTV
 </p>
 
 ---
