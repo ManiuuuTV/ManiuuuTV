@@ -1,8 +1,7 @@
 <h1 align="center">Cześć, jestem Maniuuu 👋</h1>
 
 <p align="center">
-  <b>Owner &amp; Tech Admin @
-  Minecraft Server Developer • Java • Purpur • optymalizacja i backend
+  <b>Minecraft Server Developer &amp;
 </p>
 
 <p align="center">
