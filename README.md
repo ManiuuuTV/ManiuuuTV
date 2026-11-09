@@ -6,13 +6,13 @@ Amateur Java developer focused on Minecraft plugin development.
   
 - Amateur Java developer, programming as a hobby  
 - Heavy use of AI-assisted development workflows  
-- Author of Minecraft plugins: ChestShops, Autorski-Core, AdGuard-Lite  
+- Author of Minecraft plugins: MC-Core MC-Sklep MC-Rynek MC-Generatory 
   
 ## Tech Stack  
   
 - **Language:** Java  
-- **Platform:** Bukkit / Spigot / Paper API  
-- **Tools:** Maven, Gradle, Git, AI coding assistants  
+- **Platform:** Paper API / Purpur API
+- **Tools:** Gradle, Git, AI coding assistants  
   
 ## Projects  
   
