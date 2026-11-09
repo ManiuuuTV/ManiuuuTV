@@ -1,4 +1,4 @@
-# Cześć, jestem ManiuuuTV! 👋
+# Cześć, jestem Maniuuu! 👋
 
 Amateur Java developer focused on Minecraft plugin development & basic web projects.
 
