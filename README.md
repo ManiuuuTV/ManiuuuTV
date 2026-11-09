@@ -46,3 +46,4 @@ Amateur Java developer focused on Minecraft plugin development & basic web proje
 
 - GitHub: [@ManiuuuTV](https://github.com/ManiuuuTV)
 - Discord: [@Maniuuu](https://Discord.com/Maniuuu)
+[![My Skills](https://skillicons.dev/icons?i=java,idea,html,css,js,gradle,git)](https://skillicons.dev)
