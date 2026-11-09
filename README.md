@@ -32,14 +32,9 @@ Amateur Java developer focused on Minecraft plugin development & basic web proje
 
 | Projekt | Opis |
 |---|---|
-| **MC-Core** | Główny rdzeń serwera i podstawowe moduły |
+| **MC-Core** | Główny Core na serwer i podstawowe moduły |
 | **MC-Sklep** | System sklepu / ekonomii w grze |
 | **MC-Rynek** | Rynek wymiany i handlu między graczami |
 | **MC-Generatory** | Mechanika generatorów surowców / bloków |
 
 ---
-
-## 📫 (Contact)
-
-- GitHub: [@ManiuuuTV](https://github.com/ManiuuuTV)
-- Discord: [@Maniuuu](https://Discord.com/Maniuuu)
