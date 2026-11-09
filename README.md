@@ -1,59 +1,24 @@
-<h1 align="center">Cześć, jestem Maniuuu 👋</h1>
-
-<p align="center">
-  <b>Minecraft Server Developer &amp;
-</p>
-
-<p align="center">
-  <a href="https://dc.gg/etopiamc.pl"><img src="https://img.shields.io/badge/Discord-EtopiaMC.PL-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <img src="https://komarev.com/ghpvc/?username=ManiuuuTV&
-</p>
-
----
-
-## 🧑‍💻 O mnie
-
-- 👑 Prowadzę sieć serwerów **EtopiaMC.PL** — od kodu i konfiguracji po administrację i społeczność.
-- ☕ Codding: Purpur (Bukkit API, Adventure/MiniMessage, Brigadier).
-- ⚡ Skupiam się na **optymalizacji, konfiguracji i backendzie** — stabilny TPS, czyste dane, sensowna architektura.
-- 🧩 Pisze własne pluginy: MC-Sklep, MC-Rynek, MC-Core, MC-KOD, MC-StrefaAFK 
-- 🇵🇱 Polska · `he/him`
-
-## 🛠️ Technologie
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,gradle,git,github,mysql,idea,discord" alt="Stack">
-</p>
-
-| Obszar | Czego używam |
-| --- | --- |
-| Języki | Java 25, SQL, YAML |
-| Minecraft | Purpur API, Bukkit, Adventure &amp; MiniMessage, Brigadier, Vault |
-| Gradle , Git / GitHub |
-| Dane | MySQL, SQLite, |
-| Serwer | Velocity, konfiguracja i tuning wydajności |
-
-## 🎮
-
-## 📌 Projekty
-
-| Projekt | Opis |
-| --- | --- |
-| --- | --- |
-
-## 📊 Statystyki GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManiuuuTV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statystyki">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiuuuTV&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Języki">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManiuuuTV&theme=tokyonight&hide_border=true" alt="Streak">
-</p>
-
-## 📫 Kontakt (DC: Maniuuu)
-
-- 🌍 Serwer: **BRAK**
-
-<p align="center"><i>„Dobry serwer zaczyna się od dobrego kodu.”</i></p>
+# ManiuuuTV  
+  
+Amateur Java developer focused on Minecraft plugin development.  
+  
+## About  
+  
+- Amateur Java developer, programming as a hobby  
+- Heavy use of AI-assisted development workflows  
+- Author of Minecraft plugins: ChestShops, Autorski-Core, AdGuard-Lite  
+  
+## Tech Stack  
+  
+- **Language:** Java  
+- **Platform:** Bukkit / Spigot / Paper API  
+- **Tools:** Maven, Gradle, Git, AI coding assistants  
+  
+## Projects  
+  
+| Project | Description |  
+|---|---|   
+  
+## Contact  
+  
+- GitHub: [@ManiuuuTV](https://github.com/ManiuuuTV)
