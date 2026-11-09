@@ -45,3 +45,4 @@ Amateur Java developer focused on Minecraft plugin development & basic web proje
 ## 📫 Kontakt (Contact)
 
 - GitHub: [@ManiuuuTV](https://github.com/ManiuuuTV)
+- Discord: [@Maniuuu](https://Discord.com/Maniuuu)
