@@ -14,11 +14,8 @@ Amateur Java developer focused on Minecraft plugin development & basic web proje
 
 ## 🛠️ Tech Stack & Narzędzia
 
-### Języki (Languages)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### (Languages)
+[![My Skills](https://skillicons.dev/icons?i=java,idea,html,css,js,gradle,git)](https://skillicons.dev)
 
 ### IDE & Narzędzia (Tools)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -46,4 +43,3 @@ Amateur Java developer focused on Minecraft plugin development & basic web proje
 
 - GitHub: [@ManiuuuTV](https://github.com/ManiuuuTV)
 - Discord: [@Maniuuu](https://Discord.com/Maniuuu)
-[![My Skills](https://skillicons.dev/icons?i=java,idea,html,css,js,gradle,git)](https://skillicons.dev)
