@@ -4,7 +4,7 @@ Amateur Java developer focused on Minecraft plugin development & basic web proje
 
 ---
 
-## 👨‍💻 O mnie (About)
+## 👨‍💻 (About)
 
 - ☕ **Hobbyist Developer:** Programuję hobbystycznie, głównie skupiając się na środowisku Minecrafta.
 - 🤖 **AI-assisted:** Efektywnie łączę własną naukę ze wsparciem sztucznej inteligencji w pisaniu kodu.
