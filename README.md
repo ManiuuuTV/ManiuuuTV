@@ -37,6 +37,6 @@ Amateur Java developer focused on Minecraft plugin development & basic web proje
 | **MC-Rynek** | Rynek wymiany i handlu między graczami |
 | **MC-Generatory** | Mechanika generatorów surowców / bloków |
 | **MC-DCNagroda** | Nagroda discord z zmianą nicku na ten minecraftowy |
-| **MC-??** | Nad czymś nowym pracuje |
+| **MC-Phases** | SHIFT+PPM na generator oneblock otwiera sie gui z fazami |
 
 ---
