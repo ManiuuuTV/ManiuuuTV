@@ -32,8 +32,8 @@ Amateur Java developer focused on Minecraft plugin development & basic web proje
 
 | Projekt | Opis |
 |---|---|
-| **MC-Core** | Główny Core na serwer i podstawowe moduły |
-| **MC-Sklep** | System sklepu / ekonomii w grze |
+| **MC-Core** | Główny Core na serwer i rozbudowane komendy/gui |
+| **MC-Sklep** | plugin na sklep sellwand sellchest /sklep /skup |
 | **MC-Rynek** | Rynek wymiany i handlu między graczami |
 | **MC-Generatory** | Mechanika generatorów surowców / bloków |
 | **MC-DCNagroda** | Nagroda discord z zmianą nicku na ten minecraftowy |
